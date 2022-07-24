@@ -1,0 +1,2 @@
+# wechat_reply_bot
+利用Flask的网页服务器，实现在线发送信息并转发到微信群聊
